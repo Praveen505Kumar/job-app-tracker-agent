@@ -1,0 +1,6 @@
+.env
+data/token.json
+~/.gmail-mcp/          # not actually inside repo, but good to note — never commit these
+.venv/
+__pycache__/
+*.pyc

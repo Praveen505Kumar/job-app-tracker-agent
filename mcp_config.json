@@ -1,0 +1,7 @@
+{
+  "gmail": {
+    "command": "npx",
+    "args": ["-y", "@artymclabin/gmail-mcp"],
+    "transport": "stdio"
+  }
+}
